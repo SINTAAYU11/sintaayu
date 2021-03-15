@@ -1,0 +1,121 @@
+body {
+    overflow-x: hidden;
+}
+
+.box1{
+    height: 350px;
+    width: 400px;
+    background-color: rgb(99, 49, 179);
+}
+.teks{
+    font-size: 40px;
+}
+.box2{
+    width: 500px;
+    height: 200px;
+    padding-left: 30px;
+}
+.box2 h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.box2 h4{
+    opacity: 30%;
+}
+.box3{
+    color: white;
+    height: 50px;
+    width:200px;
+    background-color: rgb(99, 49, 179);
+    border-radius: 20px;
+    margin-top:15px;
+    margin-left: 30px;
+}
+.box5{
+    height: 450px;
+    background-color:rgb(6, 16, 43) ;
+}
+.box6{
+    height:300px;
+    width: 300px;
+    background-color: rgb(99, 49, 179);
+    border-radius: 15%;
+    margin-top: -425px;
+    z-index: 1;
+
+}
+.font
+{
+    font-size: 25px;
+    padding-left: 100px;
+    padding-top: 320px;
+    color:white;
+}
+.box7
+{
+    height: 200px;
+    width: 700px;
+    border-radius: 15px;
+    background-color:rgb(99, 49, 179);
+}
+.box8
+{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: -200px;
+    margin-left: 900px;
+    background-color:rgb(99, 49, 179) ;
+}
+.tulisan1
+{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 45px;
+}
+.tulisan2{
+    font-size: 15px;
+    padding-top: 25px;
+}
+.box9
+{
+    height: 200px;
+    border-radius: 15px;
+    background-color:rgb(99, 49, 179);
+    width: 700px;
+}
+.tulisan3
+{
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 45px;
+}
+.tulisan4{
+    font-size: 15px;
+    padding-top: 25px;
+}
+.box10{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: -500px;
+    margin-left: 900px;
+    background-color:rgb(99, 49, 179) ;
+}
+.box11{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 90px;
+    margin-left: 900px;
+    background-color:rgb(99, 49, 179) ;
+}
+.box12{
+    height: 45px;
+    background-color:rgb(6, 16, 43);
+}
+.teks1{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+}
