@@ -1,0 +1,26 @@
+.search{
+    margin-left: 740px;   
+}
+.box{
+    height: 200px;
+}
+.text1{
+    padding-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box1{
+    justify-content: left;
+    height: 350px;
+}
+.tulisan2{
+   margin-top: 30px;
+}
+.boxa{
+    height: 200px;
+}
+.boxb{
+    height: 250px;
+}
+.tulisan1{
+    color: gray;
+}
