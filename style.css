@@ -1,23 +1,29 @@
-.search{
-    margin-left: 740px;   
+body {
+    background: #cdf0fc;
 }
-.box{
-    height: 200px;
-}
-.text1{
-    padding-top: 40px;
-    font-family: 'Courier New', Courier, monospace;
+
+.tulisan{
+    font-weight: bold;
+    font-size: 35px;
 }
 .box1{
-    justify-content: left;
     height: 350px;
 }
-.tulisan2{
-   margin-top: 30px;
-}
-.boxb{
+
+.box2{
+    margin-top: 25px;
+    margin-bottom: 25px;
     height: 250px;
 }
-.tulisan1{}
+.font{
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.fonta{
     color: gray;
+    font-size: 15px;
+}
+.gambar{
+    padding-top: 30px;
 }
