@@ -1,5 +1,5 @@
 body {
-    background: #cdf0fc;
+    background: #e3f3f8;
 }
 
 .tulisan{
@@ -26,4 +26,7 @@ body {
 }
 .gambar{
     padding-top: 30px;
+}
+.font1{
+    padding-left: 60px ;
 }
